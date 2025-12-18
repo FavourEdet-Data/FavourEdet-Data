@@ -14,7 +14,7 @@ I am a Data Professional transitioning from a Data Analyst background into **Dat
 
 
 ### 🚀 Featured Projects
-- **[E-Commerce Analytics Pipeline](link-to-repo):** Built a full-scale Snowflake + dbt project involving staging, intermediate, and mart layers with automated data quality tests.
+- **[E-Commerce Analytics Pipeline](https://github.com/FavourEdet-Data/BRAZIL_ESTORE_DBT):** Built a full-scale Snowflake + dbt project involving staging, intermediate, and mart layers with automated data quality tests.
 - **[Foodhub ETL Workflow](link-to-repo):** Developed a Python and SQL-based workflow to clean and load food delivery data into a structured warehouse.
 
 ---
