@@ -1,16 +1,14 @@
 # Hi, I'm Favour Edet 👋 
 
-### Junior Data Engineer | Analytics Engineering & Data Warehousing
-I am a Data Professional transitioning from a Data Analyst background into **Data Engineering**. I specialize in the **Modern Data Stack**, focusing on transforming raw data into reliable, tested, and high-performance data models.
-
-
-
-### 🛠️ Technical Stack
-- **Cloud Data Warehousing:** Snowflake (In-Progress), BigQuery
-- **Transformation & Modeling:** dbt (Data Build Tool), Advanced SQL
-- **Languages:** Python (Pandas, SQL-Automation), SQL
-- **Tools & Workflow:** Git/GitHub, ELT/ETL Pipeline Design, Data Documentation
-
+## Analytics Engineering & Data Warehousing
+I am a Data Professional transitioning from an Agricultural Science background into **Analytics Engineering** and **Data Warehousing**. I specialize in building scalable cloud environments and transforming complex datasets into reliable, clean models that drive business strategy.
+​Currently a student at the University of Uyo, I bridge the gap between raw data and actionable insights by combining my **IBM Data Analyst certification** with a deep specialization in the **Modern Data Stack**, including **Snowflake, dbt, and Git**. I am passionate about data modeling (Star Schema), version control, and building the infrastructure that makes data-driven decision-making possible.
+​
+### Core Technical Expertise:
+- **​Data Transformation**: Advanced SQL (CTEs, Window Functions) & dbt modeling.
+- **​Cloud Warehousing**: Snowflake architecture, Snowpipe, and storage optimization.
+- **​Version Control**: Git/GitHub for collaborative, production-ready development.
+- **​Insight Generation**: Statistical analysis and KPI reporting.
 
 
 ### 🚀 Featured Projects
