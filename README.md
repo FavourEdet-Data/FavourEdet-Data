@@ -1,13 +1,12 @@
 # Hi, I’m Favour 👋
 
-## **Analytics Engineer & Data Automation Engineer**
+## **Analytics Engineer & Business Intelligence Analyst**
 
 I design, build, and automate **data pipelines** that ingest, transform, and visualize data using **Snowflake, dbt, Prefect, Python, and Looker Studio**.  
-I specialize in **AI-assisted monitoring and workflow automation**, ensuring data quality, governed pipelines, and actionable insights.  
+I specialize in **Decision-Support Analytics and workflow automation**, ensuring data quality, governed pipelines, and actionable insights.  
 
 ### 🔹 Key Skills
-- **Data Engineering & Automation:** Snowflake, dbt, Prefect, Python, SQL  
-- **AI-assisted Analytics:** LLMs, RAG workflows, monitoring KPIs  
+- **Analytics Engineering & Automation:** Snowflake, dbt, Prefect, Python, SQL    
 - **BI & Visualization:** Looker Studio dashboards, automated reporting  
 - **Data Governance:** Source-of-Truth principles, testing, CI/CD pipelines  
 
@@ -15,14 +14,14 @@ I specialize in **AI-assisted monitoring and workflow automation**, ensuring dat
 - **CoinGecko Analytics Pipeline:** Airbyte → Snowflake → dbt → Prefect → Looker Studio  
 - **Synthetic Data Automation Project:** Continuous data generation, analytics, dashboards, A/B testing  
 
-I’m currently **open to remote contracts and EU-based opportunities** as an AE / Data Automation Engineer. I am passionate about data modeling (Star Schema), version control, and building the infrastructure that makes data-driven decision-making possible.
+I’m currently **open to remote contracts and EU-based opportunities** as an Analytics Engineer/ Business Intelligence Analyst. I am passionate about data modeling (Star Schema), version control, and building the infrastructure that makes data-driven decision-making possible.
 ​
 ### Core Technical Expertise:
 - **​Data Transformation**: Advanced SQL (CTEs, Window Functions) & dbt modeling.
 - **​Cloud Warehousing**: Snowflake & Bigquery
 - **​Version Control**: Git/GitHub for collaborative, production-ready development.
 - **​Insight Generation**: Statistical analysis and KPI reporting.
-- **AI Assistant Automation**: for data updates monitoring, updates, insights and reports.
+- **Data Automation ad Workflows**: for data updates monitoring, updates, insights and reports.
 
 
 ### 🚀 Featured Projects
@@ -33,8 +32,7 @@ I’m currently **open to remote contracts and EU-based opportunities** as an AE
 ---
 
 ### 🌱 I’m currently learning
-- Vanderbilt AI Agent Developer Specialization
-
+- Google Business Intelligence Professional Certificate on Coursera 
 ---
 
 ### 📫 Connect with me:
