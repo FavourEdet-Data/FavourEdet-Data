@@ -44,14 +44,10 @@ Brazilian e-commerce data warehouse with dimensional modeling
 
 ### 📫 Let's Connect
 [
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ](https://linkedin.com/in/favour-edet-a773b737b)
 [
-
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ](mailto: favouranalyticsai@gmail.com)
 
 ---
