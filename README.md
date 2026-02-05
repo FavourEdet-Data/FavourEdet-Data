@@ -1,55 +1,59 @@
-# Hi, I’m Favour 👋
+# Hi, I'm Favour Edet 👋
 
-## **Analytics Engineer & Business Intelligence Analyst**
+## Analytics Engineer | AI Automation | Cloud Data Platforms
 
-I design, build, and automate **data pipelines** that ingest, transform, and visualize data using **Snowflake, dbt, Prefect, Python, and Looker Studio**.  
-I specialize in **Decision-Support Analytics and workflow automation**, ensuring data quality, governed pipelines, and actionable insights.  
+I build intelligent data pipelines that transform raw data into actionable insights. Currently exploring AI-powered automation and real-time analytics.
 
-### 🔹 Key Skills
-- **Analytics Engineering & Automation:** Snowflake, dbt, Prefect, Python, SQL    
-- **BI & Visualization:** Looker Studio dashboards, automated reporting  
-- **Data Governance:** Source-of-Truth principles, testing, CI/CD pipelines  
+### 🚀 What I Do
+- **Analytics Engineering:** Design and build scalable data transformations using dbt & Snowflake
+- **AI Automation:** Develop AI agents for real-time insights and intelligent alerting
+- **Data Pipelines:** End-to-end ETL/ELT workflows from ingestion to visualization
 
-### 🔹 Featured Projects
-- **CoinGecko Analytics Pipeline:** Airbyte → Snowflake → dbt → Prefect → Looker Studio  
-- **Synthetic Data Automation Project:** Continuous data generation, analytics, dashboards, A/B testing  
+### 🛠️ Tech Stack
+**Cloud & Data:** Snowflake, dbt, SQL  
+**Programming:** Python, SQL  
+**AI & Automation:** AI Agents, API Integration, Slack Bots  
+**Tools:** Git, Termux, Google Colab, VS Code  
 
-I’m currently **open to remote contracts and EU-based opportunities** as an Analytics Engineer/ Business Intelligence Analyst. I am passionate about data modeling (Star Schema), version control, and building the infrastructure that makes data-driven decision-making possible.
-​
-### Core Technical Expertise:
-- **​Data Transformation**: Advanced SQL (CTEs, Window Functions) & dbt modeling.
-- **​Cloud Warehousing**: Snowflake & Bigquery
-- **​Version Control**: Git/GitHub for collaborative, production-ready development.
-- **​Insight Generation**: Statistical analysis and KPI reporting.
-- **Data Automation ad Workflows**: for data updates monitoring, updates, insights and reports.
+### 📌 Featured Projects
 
+#### 🤖 [Mobile Fintech AI Pipeline](https://github.com/FavourEdet-Data/Mobile-Fintech-Pipeline)
+Real-time cryptocurrency analytics pipeline with AI-powered insights and Slack alerting. Built entirely on mobile using Termux.
+- **Tech:** Python, Snowflake, AI Agents, CoinGecko API, Slack
+- **Impact:** Automated market analysis and real-time alerts for trading opportunities
 
-### 🚀 Featured Projects
-- **[E-Commerce Analytics Pipeline](https://github.com/FavourEdet-Data/BRAZIL_ESTORE_DBT):** Built a full-scale Snowflake + dbt project involving staging, intermediate, and mart layers with automated data quality tests.
-- **[Foodhub ETL Workflow](https://github.com/FavourEdet-Data/snowflake_foodhub_project.sql):** Developed a Python and SQL-based workflow to clean and load food delivery data into a structured warehouse.
-- **[CoinGecko Mobile Fintech Pipeline](https://github.com/FavourEdet-Data/Mobile-Fintech-Pipeline):**  Developed a python API for raw data extraction to load data into structured warehouse with full automation with termux for daily auto extraction update and developed an AI observer for monitoring snowflake table update of prices via slack notifications.
+#### 📊 [Foodhub Analytics Pipeline](https://github.com/FavourEdet-Data/foodhub-dbt-analytics)
+End-to-end dbt transformation pipeline for food delivery analytics
+- **Tech:** Snowflake, dbt, SQL, Data Modeling
+- **Impact:** Dimensional model enabling customer behavior analysis
+
+#### 🛍️ [Olist E-commerce Data Warehouse](https://github.com/FavourEdet-Data/olist-ecommerce-dbt)
+Brazilian e-commerce data warehouse with dimensional modeling
+- **Tech:** Snowflake, dbt, SQL
+- **Impact:** Star schema design for business intelligence
+
+### 🎓 Certifications
+- IBM Data Analyst Professional Certificate
+- Snowflake Data Engineering Certificate
+- dbt Fundamentals (in progress)
+
+### 🌍 Location & Availability
+📍 Based in Nigeria  
+🌐 Open to remote opportunities globally  
+💼 Available for Analytics Engineer, BI Developer, and Data Engineer roles
+
+### 📫 Let's Connect
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/favour-edet-a773b737b)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto: favouranalyticsai@gmail.com)
 
 ---
 
-### 🌱 I’m currently learning
-- Google Business Intelligence Professional Certificate on Coursera 
----
-
-### 📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/favour-edet-a773b737b)
-  
-
-<!--
-**FavourEdet-Data/FavourEdet-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *"Building data systems that don't just report what happened, but predict what's next and act on it automatically."*
