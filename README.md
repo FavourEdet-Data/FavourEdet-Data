@@ -40,7 +40,7 @@ Brazilian e-commerce data warehouse with dimensional modeling
 ### 🌍 Location & Availability
 📍 Based in Nigeria  
 🌐 Open to remote opportunities globally  
-💼 Available for Analytics Engineer, BI Developer, and Data Engineer roles
+💼 Available for Analytics Engineer, Associate Analytics Engineer, Data Analytics Engineer, and Data Engineer roles
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/favour-edet-a773b737b) 
